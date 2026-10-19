@@ -1,1 +1,13 @@
 # CS_340
+
+## How do you write programs that are maintainable, readable, and adaptable?
+
+When writing programs, I try to keep my code organized so that it is easier to understand and make changes when needed. In Project One, I created a CRUD Python module to handle the database operations in MongoDB. I was able to use that same module again in Project Two when I worked on the dashboard for Grazioso Salvare. Keeping the database operations separate from the dashboard code made it easier to work on different parts of the project without having to change everything at once. It also showed me how useful it is to have code that can be reused instead of starting from scratch each time. I could see myself using a similar CRUD module in future projects, especially for applications that need to manage and retrieve information from a database.
+
+## How do you approach a problem as a computer scientist?
+
+For this project, I started by looking at what Grazioso Salvare needed and how I could use the database to meet those requirements. I worked on connecting MongoDB to the dashboard and making sure the filters, data table, and visualizations displayed the correct information. There were times when I had to go back through my code to figure out why something wasn't working or why the results weren't showing up the way they should. Compared to some of my previous assignments, this project involved more than just getting one piece of code to run correctly. I had to make sure everything worked together. It helped me understand why breaking a project into smaller steps and testing as I go is important. In the future, I would use that same approach while also making sure I understand what the client needs before getting too far into development.
+
+## What do computer scientists do, and why does it matter?
+
+Computer scientists use programming and technology to solve problems and create systems that make things easier for people and businesses. Their work is important because so many organizations rely on technology to manage information and complete everyday tasks. For Grazioso Salvare, the dashboard makes it easier to go through animal shelter records and find dogs that meet certain rescue training requirements. Instead of having to search through a large amount of information manually, users can filter the records and view the results in a more organized way. This could help Grazioso Salvare save time and focus more on finding suitable dogs for rescue training. Working on this project helped me understand how something we create for an assignment can also be useful in a real-world situation.
